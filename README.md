@@ -28,6 +28,7 @@ Performs DNS → SMB → LDAP → Kerberos → SNMP attack chain in real-world s
 
 ## 📄 Final Report Template
 
+```markdown
 # 🧠 Red Team Report – Protocol Attack Chain
 
 ### Target: target.com
